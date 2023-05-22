@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98296944926",
+    "project_id": "login-form-24798",
+    "storage_bucket": "login-form-24798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98296944926:android:648225f16c500f89d3510f",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98296944926-n3igo6l8mnb4u8nqlga6chsj11l24g13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtw-FJG1AHcxBpHRRSihnl_kEo34bLKXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98296944926-n3igo6l8mnb4u8nqlga6chsj11l24g13.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98296944926-jc07v2k72v7gvvcjskh0n19gjuk5hc9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
