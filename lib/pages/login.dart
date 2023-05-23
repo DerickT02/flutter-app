@@ -94,7 +94,9 @@ class _LoginPageState extends State<LoginPage>{
       ),
       body:
       Column(children: [
+        SizedBox(height: 100,),
         _entryField("email", _controllerEmail, false),
+        SizedBox(height: 5,),
         _entryField("password", _controllerPassword, true),
         Row(children: [
           _toggleLoginAndRegister(),
